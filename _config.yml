@@ -1,5 +1,4 @@
-favicon: null
-name: darrellbooker
+layout_spectrum: 0.41013054526411
 opengraph:
   image: null
   type: null
@@ -18,23 +17,24 @@ collections:
       number: 10
 purpose: []
 color:
-  saturation: 0.6899642
+  saturation: 0
   brandStrength: 0.5737632750533521
-  lightness: 0.9086022
+  lightness: 0
   brandColors:
     - '#3C493F'
     - '#7E8D85'
     - '#B3BFB8'
     - '#F0F7F4'
     - '#A2E3C4'
-  rhythmicContrast: 0.1577061
+  rhythmicContrast: 0
 typography_spectrum: 0.6132826174143702
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.41013054526411
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: darrellbooker
