@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Importing flat files in SQL Server via SSIS
-datePublished: '2016-05-07T22:42:18.503Z'
-dateModified: '2016-05-07T22:42:13.451Z'
+datePublished: '2016-05-07T22:42:52.211Z'
+dateModified: '2016-05-07T22:42:48.629Z'
 title: ''
 author: []
 sourcePath: _posts/2016-05-07-importing-flat-files-in-sql-server-via-ssis.md
@@ -38,3 +38,4 @@ Substituting database, tablename, FORMATNAME.FMT, ServerName, UserName, and Pass
 Once done I must admit you end up with a nicely formatted format (.fmt) file to specify in SSIS. 
 
 Leave it to Microsoft to make something that should take 5 minutes into a 20-30 minute process. enjoy!
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/9172d476-bbad-4ee1-88f5-5f553c2291e3.png)
