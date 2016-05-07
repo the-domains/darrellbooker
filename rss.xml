@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[darrellbooker]]></title>
         <description><![CDATA[darrellbooker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/darrellbooker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 21:11:18 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 21:14:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/darrellbooker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Web Designers vs Web Developers]]></title>
+            <description><![CDATA[<article><h1>Web Designers vs Web Developers</h1><img src="http://65.media.tumblr.com/d76bfde1aee234cb6fea978b65e029e3/tumblr_mxzht0Obzp1r5ekuto1_1280.jpg"></article>]]></description>
+            <link>http://darrellbooker.tumblr.com/post/70359085488</link>
+            <guid isPermaLink="false">0339d111-ec08-46f6-8532-0c7f6bcf3557</guid>
+            <pubDate>Sat, 07 May 2016 21:13:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Should I Use Emoji?]]></title>
             <description><![CDATA[<article><h1>Should I Use Emoji?</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/1b6c984b532d8c5d5ae571affa96ae129e7124ea.jpg"></article>]]></description>
