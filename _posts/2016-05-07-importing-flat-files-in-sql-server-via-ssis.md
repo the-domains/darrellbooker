@@ -5,10 +5,11 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Importing flat files in SQL Server via SSIS
-datePublished: '2016-05-07T22:38:52.556Z'
-dateModified: '2016-05-07T22:38:44.343Z'
+datePublished: '2016-05-07T22:42:18.503Z'
+dateModified: '2016-05-07T22:42:13.451Z'
 title: ''
 author: []
+sourcePath: _posts/2016-05-07-importing-flat-files-in-sql-server-via-ssis.md
 authors: []
 publisher:
   name: null
@@ -16,11 +17,12 @@ publisher:
   url: null
   favicon: null
 starred: false
-sourcePath: _posts/2016-05-07-importing-flat-files-in-sql-server-via-ssis.md
 url: importing-flat-files-in-sql-server-via-ssis/index.html
 _type: Article
 
 ---
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/208278bc-6e39-48ec-83a3-06df892d2343.png)
+
 Importing flat files in SQL Server via SSIS
 
 First off, I think this process should be a lot more straightforward than it is and make more use of GUI's but this is Microsoft we are talking about here. 
