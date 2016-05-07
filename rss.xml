@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[darrell's world]]></title>
         <description><![CDATA[darrell's world]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/darrellbooker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 07 May 2016 23:45:53 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sat, 07 May 2016 23:55:04 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/darrellbooker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Reset Mac Password]]></title>
+            <description><![CDATA[<article><h1>Reset Mac Password</h1><p>Easy steps if you ever forget the password to a Mac or ever need to hack into one.</p></article>]]></description>
+            <link>http://darrellbooker.tumblr.com/post/13306921964/reset-mac-password</link>
+            <guid isPermaLink="false">54b8b5de-6107-41e4-86ef-8546defd8b7f</guid>
+            <pubDate>Sat, 07 May 2016 23:55:03 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Importing flat files in SQL Server 2005/208 via SSIS]]></title>
             <description><![CDATA[<article><h1>Importing flat files in SQL Server 2005/208 via SSIS</h1><p>First off, I think this process should be a lot more straightforward than it is and make more use of GUI&rsquo;s but this is Microsoft we are talking about here. So after you add a Bulk Insert Task to your SSIS package and specify the flat file to import you must specify a format file to use.</p></article>]]></description>
