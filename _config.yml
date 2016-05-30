@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
   saturation: 0.8835126
   brandStrength: 0.9375
-  lightness: 0.7634408
+  rhythmicContrast: 0.75
   brandColors:
     - '#010101'
     - '#0061a5'
     - '#93968b'
     - '#b25400'
     - '#daddcc'
-  rhythmicContrast: 0.75
+  lightness: 0.7634408
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-name: darrellbooker
 favicon: null
+name: darrellbooker
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.6132826174143702
-layout_spectrum: 0.7584
+layout_spectrum: 1
