@@ -4,8 +4,15 @@
         <description><![CDATA[darrell's world]]></description>
         <link>https://thegrid.ai/darrellbooker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 00:30:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 00:46:19 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darrellbooker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Transferring SQL Server Logins]]></title>
+            <description><![CDATA[<article><h1>Transferring SQL Server Logins</h1><p>When restoring a SQL database to a new server all the users are transferred but these users do not have logins to the server. If you then create a login they will not match to the existing DB user because the SIDS do not match.</p></article>]]></description>
+            <link>http://darrellbooker.tumblr.com/post/87204832978/transferring-sql-server-logins</link>
+            <guid isPermaLink="false">58c4b072-18a2-4fa4-be81-d5f06cd8ade9</guid>
+            <pubDate>Mon, 30 May 2016 00:46:18 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Career Day 2012]]></title>
             <description><![CDATA[<article><h1>Career Day 2012</h1><p>Last week I had the pleasure of speaking to a group of 7th graders at Pine Grove Middle School in Baltimore, MD. The topic was career day and I was there to share my experiences in the technology world. I chose to focus on more general words of wisdom.</p></article>]]></description>
