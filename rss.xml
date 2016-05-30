@@ -4,13 +4,20 @@
         <description><![CDATA[darrell's world]]></description>
         <link>https://thegrid.ai/darrellbooker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 00:46:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 00:46:46 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darrellbooker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Transferring SQL Server Logins]]></title>
             <description><![CDATA[<article><h1>Transferring SQL Server Logins</h1><p>When restoring a SQL database to a new server all the users are transferred but these users do not have logins to the server. If you then create a login they will not match to the existing DB user because the SIDS do not match.</p></article>]]></description>
             <link>http://darrellbooker.tumblr.com/post/87204832978/transferring-sql-server-logins</link>
             <guid isPermaLink="false">58c4b072-18a2-4fa4-be81-d5f06cd8ade9</guid>
+            <pubDate>Mon, 30 May 2016 00:46:18 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Find out what's causing high cpu usage on SQL Server]]></title>
+            <description><![CDATA[<article><h1>Find out what's causing high cpu usage on SQL Server</h1><p>So I got a call from a client that our app was running slow. After connecting to the server I Immediately saw that SQL Server was hammering the CPU at 99%. After spending close to an hour ruling out any running jobs or stored procedures. I stumbled across Adam Machanic&rsquo;s Who Is Active Script.</p></article>]]></description>
+            <link>http://darrellbooker.tumblr.com/post/72445599768/find-out-whats-causing-high-cpu-usage-on-sql</link>
+            <guid isPermaLink="false">d22dca03-decf-4d0d-bdc1-3bcf531d257a</guid>
             <pubDate>Mon, 30 May 2016 00:46:18 GMT</pubDate>
         </item>
         <item>
