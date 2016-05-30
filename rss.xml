@@ -4,8 +4,15 @@
         <description><![CDATA[darrell's world]]></description>
         <link>https://thegrid.ai/darrellbooker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 00:59:54 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 01:03:43 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darrellbooker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Adding logout to SSRS Report Manager When Using Forms Authentication]]></title>
+            <description><![CDATA[<article><h1>Adding logout to SSRS Report Manager When Using Forms Authentication</h1><p>For some odd reason (which I can't understand) the good folks at Microsoft didn&rsquo;t add a logout feature to SSRS Report Manager. Here's a quick tutorial on how to add the logout feature plus a little taste of manipulating the html of the report manager.</p></article>]]></description>
+            <link>http://darrellbooker.tumblr.com/post/119522015783/adding-logout-to-ssrs-report-manager-when-using</link>
+            <guid isPermaLink="false">1db2e4b4-0bba-4e49-8ac5-3ed9bc8db0f2</guid>
+            <pubDate>Mon, 30 May 2016 01:03:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[How I Pulled It All Together-Xamarin Forms, Azure, ASP.NET MVC 5 and Azure Mobile Services]]></title>
             <description><![CDATA[<article><h1>How I Pulled It All Together-Xamarin Forms, Azure, ASP.NET MVC 5 and Azure Mobile Services</h1><p>So this won&rsquo;t be a lenghty post giving you step by step instructions but instead I&rsquo;ll point you to all the resources that helped me over a 2 week period to go from &ldquo;I should be able to do it&rdquo; to reality.</p></article>]]></description>
