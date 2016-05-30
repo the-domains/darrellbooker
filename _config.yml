@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: darrellbooker
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.1177945
+typography_spectrum: 0.0651629
 layout_spectrum: 1
