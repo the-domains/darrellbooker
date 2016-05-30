@@ -4,8 +4,15 @@
         <description><![CDATA[darrell's world]]></description>
         <link>https://thegrid.ai/darrellbooker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 01:12:17 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 01:15:27 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darrellbooker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://pbs.twimg.com/media/CjYwG9sUkAIyogP.jpg:large" alt="We can&apos;t tell you how many kids are in the child welfare system but can design cars online. Let&apos;s #hackfostercare">]]></description>
+            <link>https://twitter.com/darrellbooker_/status/735828494953938944</link>
+            <guid isPermaLink="false">d7014fa9-fad7-4093-bc86-4a1ffea58f3f</guid>
+            <pubDate>Mon, 30 May 2016 01:15:26 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IdentityServer: Needed you in my life years ago!!!]]></title>
             <description><![CDATA[<article><h1>IdentityServer: Needed you in my life years ago!!!</h1><p>IdentityServer3 is a great tool by Thinktecture and this is how it changed everything for me.... This project was pretty typical to any other. A simple Bootstrap/Knockout .NET MVC using WebAPI for all my data calls with a companion Xamarin Forms app utilizing the same WebAPI.</p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>http://darrellbooker.tumblr.com/post/23481595425/career-day-2012</link>
             <guid isPermaLink="false">398b8951-b833-4cc2-8ee0-2ccb98363985</guid>
             <pubDate>Mon, 30 May 2016 00:30:22 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Public bathroom pet peeve]]></title>
-            <description><![CDATA[<article><h1>Public bathroom pet peeve</h1><p>Don&rsquo;t get me wrong, I&rsquo;m all about saving the trees. But it burns me up when there are no paper towels just the heated hand dryer. Here&rsquo;s why&hellip; I often use the paper towels to grab the germ filled disgusting handle on my way out. See if there&rsquo;s no paper towels, I can&rsquo;t!</p></article>]]></description>
-            <link>http://darrellbooker.tumblr.com/post/13117309003/public-bathroom-pet-peeve</link>
-            <guid isPermaLink="false">e9212912-b0ba-42ad-bdcf-7e61a5058269</guid>
-            <pubDate>Mon, 30 May 2016 00:16:50 GMT</pubDate>
         </item>
     </channel>
 </rss>
