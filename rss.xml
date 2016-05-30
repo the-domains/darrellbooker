@@ -4,8 +4,22 @@
         <description><![CDATA[darrell's world]]></description>
         <link>https://thegrid.ai/darrellbooker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 01:03:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 01:12:17 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darrellbooker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[IdentityServer: Needed you in my life years ago!!!]]></title>
+            <description><![CDATA[<article><h1>IdentityServer: Needed you in my life years ago!!!</h1><p>IdentityServer3 is a great tool by Thinktecture and this is how it changed everything for me.... This project was pretty typical to any other. A simple Bootstrap/Knockout .NET MVC using WebAPI for all my data calls with a companion Xamarin Forms app utilizing the same WebAPI.</p></article>]]></description>
+            <link>http://darrellbooker.tumblr.com/post/140637046433/identityserver-needed-you-in-my-life-years-ago</link>
+            <guid isPermaLink="false">0aa064cf-1ced-4484-8019-e4d5b96d3edc</guid>
+            <pubDate>Mon, 30 May 2016 01:12:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Adding SSRS Users(new role assignment) programmatically]]></title>
+            <description><![CDATA[<article><h1>Adding SSRS Users(new role assignment) programmatically</h1><p>Well since Microsoft made it virtually impossible to add new users directly via SQL we are forced to use the Reporting Web Services. After just a few minutes of searching I found an example script that did exactly what I wanted but I kept getting access denied.</p></article>]]></description>
+            <link>http://darrellbooker.tumblr.com/post/126270328658/adding-ssrs-usersnew-role</link>
+            <guid isPermaLink="false">b9b775db-486b-4d3e-9b44-408e8ddf5627</guid>
+            <pubDate>Mon, 30 May 2016 01:04:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Adding logout to SSRS Report Manager When Using Forms Authentication]]></title>
             <description><![CDATA[<article><h1>Adding logout to SSRS Report Manager When Using Forms Authentication</h1><p>For some odd reason (which I can't understand) the good folks at Microsoft didn&rsquo;t add a logout feature to SSRS Report Manager. Here's a quick tutorial on how to add the logout feature plus a little taste of manipulating the html of the report manager.</p></article>]]></description>
@@ -61,13 +75,6 @@
             <link>http://darrellbooker.tumblr.com/post/13117309003/public-bathroom-pet-peeve</link>
             <guid isPermaLink="false">e9212912-b0ba-42ad-bdcf-7e61a5058269</guid>
             <pubDate>Mon, 30 May 2016 00:16:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Importing flat files in SQL Server 2005/2008 via SSIS]]></title>
-            <description><![CDATA[<article><h1>Importing flat files in SQL Server 2005/2008 via SSIS</h1><p>First off, I think this process should be a lot more straightforward than it is and make more use of GUI's but this is Microsoft we are talking about here. So after you add a Bulk Insert Task to your SSIS package and specify the flat file to import you must specify a format file to use.</p></article>]]></description>
-            <link>http://darrellbooker.tumblr.com/post/12559038772/importing-flat-files-in-sql-server-20052008-via</link>
-            <guid isPermaLink="false">3fde544d-a3da-4358-99bc-bfc7eca61f2b</guid>
-            <pubDate>Mon, 30 May 2016 00:11:20 GMT</pubDate>
         </item>
     </channel>
 </rss>
