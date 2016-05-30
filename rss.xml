@@ -4,8 +4,15 @@
         <description><![CDATA[darrell's world]]></description>
         <link>https://thegrid.ai/darrellbooker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 30 May 2016 00:57:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2016 00:58:48 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/darrellbooker/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Making Custom Renderers in Xamarin.Forms More Scalable]]></title>
+            <description><![CDATA[<article><h1>Making Custom Renderers in Xamarin.Forms More Scalable</h1><p>As you know, custom renderers in Xamarin.Forms allow us to tap into native aspects and truly customize elements. If your app makes use of various combinations of fonts, font sizes and colors you may find yourself making a custom renderer for each combination.</p></article>]]></description>
+            <link>http://darrellbooker.tumblr.com/post/101951741293/making-custom-renderers-in-xamarinforms-more</link>
+            <guid isPermaLink="false">0bbb29bb-c71b-4fec-97e2-2d00b6314634</guid>
+            <pubDate>Mon, 30 May 2016 00:58:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Sharing to Social Networks Using Xamarin.Social and Xamarin.Auth Programatically]]></title>
             <description><![CDATA[<article><h1>Sharing to Social Networks Using Xamarin.Social and Xamarin.Auth Programatically</h1><p>I had a requirement in an app to send tweets programmatically without displaying the ui. Xamarin.Social seemed to be exactly what I needed once I found the ShareAsync Method. twitter.ShareItemAsync (item, e.Account); The only thing I needed to was to specify the Twitter account to use.</p></article>]]></description>
