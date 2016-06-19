@@ -1,5 +1,8 @@
-title: darrell's world
-purpose: []
+name: darrellbooker
+favicon: null
+layout_spectrum: 1
+typography_spectrum: 0.7431078
+title: all things darrell.
 collections:
   - index:
       path: /
@@ -12,30 +15,27 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0
-  brandStrength: 0
-  lightness: 0
   brandColors:
     - '#010101'
     - '#0061a5'
     - '#93968b'
     - '#b25400'
     - '#daddcc'
+  brandStrength: 0
+  lightness: 0
+  saturation: 0
   rhythmicContrast: 0
-cta:
-  bucket: null
-  version: null
-  domain: null
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-name: darrellbooker
-favicon: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-typography_spectrum: 0.7431078
-layout_spectrum: 1
+purpose: []
