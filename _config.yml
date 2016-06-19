@@ -1,4 +1,4 @@
-title: "darrell's world"
+title: darrell's world
 purpose: []
 collections:
   - index:
@@ -6,23 +6,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 color:
-  saturation: 0.8835126
+  saturation: 0.3602757
   brandStrength: 0.9375
-  rhythmicContrast: 0.75
+  lightness: 0.8922306
   brandColors:
     - '#010101'
     - '#0061a5'
     - '#93968b'
     - '#b25400'
     - '#daddcc'
-  lightness: 0.7634408
+  rhythmicContrast: 0.7537594
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: darrellbooker
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
 typography_spectrum: 0.7431078
-layout_spectrum: 0.8627819
+layout_spectrum: 1
